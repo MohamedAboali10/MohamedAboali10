@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedAboali10
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
